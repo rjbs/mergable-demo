@@ -1,7 +1,7 @@
 - setup
     - ~/.gitconfig
-    - user (the absoluet minimum)
+    - user (the absolute minimum)
     - color.ui
     - alias
         - alias per se
-        - hist, with brakedown
+        - hist, with breakdown
