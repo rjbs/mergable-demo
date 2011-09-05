@@ -2,12 +2,12 @@
   - init
   - clone
   - add
-  - commit
+  - commit (including --amend)
   - rm
-  - reset
-  - checkout
+  - reset (unstage adn move-head)
+  - checkout (switch head and get one file)
   - tag
-  - rebase
+  - rebase (interactive and vanila)
   - branch
   - remote
   - fetch
