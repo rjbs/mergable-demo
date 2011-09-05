@@ -1,17 +1,17 @@
-- [ ] commands to actually care about
-  - [ ] init
-  - [ ] clone
-  - [ ] add
-  - [ ] commit
-  - [ ] rm
-  - [ ] reset
-  - [ ] checkout
-  - [ ] tag
-  - [ ] rebase
-  - [ ] branch
-  - [ ] remote
-  - [ ] fetch
-  - [ ] push
-  - [ ] log
-  - [ ] diff
-  - [ ] bisect
+- commands to actually care about
+  - init
+  - clone
+  - add
+  - commit
+  - rm
+  - reset
+  - checkout
+  - tag
+  - rebase
+  - branch
+  - remote
+  - fetch
+  - push
+  - log
+  - diff
+  - bisect

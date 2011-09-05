@@ -1,4 +1,4 @@
-- [+] remotes
-    - [+] add, remove
-    - [+] fetch, push
-    - [+] "never pull"
+- remotes
+    - add, remove
+    - fetch, push
+    - "never pull"
