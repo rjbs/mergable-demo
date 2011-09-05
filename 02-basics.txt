@@ -6,4 +6,4 @@
     - look at all the above with show, hist, diff
     - commit --amend
     - commit, abandon with reset HEAD~
-    - abandon abandonmint by consulting relog
+    - abandon abandonment by consulting reflog
