@@ -1,0 +1,44 @@
+- [-] PLAN
+    - [+] setup
+        - [+] ~/.gitconfig
+        - [+] [user]
+        - [+] [color]
+        - [+] [alias]
+            - [+] hist
+    - [+] the basics
+        - [+] init, add, commit (and status)
+        - [+] edit, add, commit (and status)
+        - [+] edit two files, add one, commit, add other, commit
+        - [+] edit two files, add two, reset one ("un add"), commit
+        - [+] commit --amend
+        - [+] commit, abandon with reset
+        - [+] abandon abandonment with reflog
+    - [+] merge
+        - [+] merge two branches
+        - [+] fast forward
+        - [+] non-fast-forward
+        - [+] rebase
+        - [+] conflicts
+        - [+] Q: how do you unmerge?
+    - [+] remotes
+        - [+] add, remove
+        - [+] fetch, push
+        - [+] "never pull"
+    - [ ] bisect
+- [ ] commands to actually care about
+    - [ ] init
+    - [ ] clone
+    - [ ] add
+    - [ ] commit
+    - [ ] rm
+    - [ ] reset
+    - [ ] checkout
+    - [ ] tag
+    - [ ] rebase
+    - [ ] branch
+    - [ ] remote
+    - [ ] fetch
+    - [ ] push
+    - [ ] log
+    - [ ] diff
+    - [ ] bisect
