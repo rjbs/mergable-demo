@@ -1,7 +1,8 @@
 - setup
     - ~/.gitconfig
-    - user (the absoluet minimum)
+    - user (the absoluet minimum: name, email)
     - color.ui
     - alias
         - alias per se
         - hist, with brakedown
+    - github?
