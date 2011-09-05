@@ -4,10 +4,10 @@
   - add
   - commit (including --amend)
   - rm
-  - reset (unstage adn move-head)
+  - reset (unstage and move-head)
   - checkout (switch head and get one file)
   - tag
-  - rebase (interactive and vanila)
+  - rebase (interactive and vanilla)
   - branch
   - remote
   - fetch
