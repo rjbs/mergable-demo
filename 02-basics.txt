@@ -3,6 +3,7 @@
     - edit, add, commit (and status)
     - edit two files, add one, commit, add other, commit
     - edit two files, add two, reset one ("un add"), commit
+    - look at all the above with show, hist, diff
     - commit --amend
-    - commit, abandon with reset
-    - abandon abandonment with reflog
+    - commit, abandon with reset HEAD~
+    - abandon abandonmint by consulting relog
