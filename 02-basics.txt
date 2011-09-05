@@ -1,0 +1,8 @@
+- [+] the basics
+    - [+] init, add, commit (and status)
+    - [+] edit, add, commit (and status)
+    - [+] edit two files, add one, commit, add other, commit
+    - [+] edit two files, add two, reset one ("un add"), commit
+    - [+] commit --amend
+    - [+] commit, abandon with reset
+    - [+] abandon abandonment with reflog

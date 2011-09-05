@@ -1,0 +1,7 @@
+- [+] merge
+    - [+] merge two branches
+    - [+] fast forward
+    - [+] non-fast-forward
+    - [+] rebase
+    - [+] conflicts
+    - [+] Q: how do you unmerge?
