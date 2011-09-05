@@ -7,4 +7,3 @@
     - commit --amend
     - commit, abandon with reset HEAD~
     - abandon abandonmint by consulting relog (HEAD@{0})
-    - show off the stash?
