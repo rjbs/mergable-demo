@@ -1,1 +1,4 @@
 - bisect
+    - picking start/end points
+    - writing a test program
+    - kicking off the test
